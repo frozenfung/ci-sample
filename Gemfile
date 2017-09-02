@@ -51,3 +51,4 @@ end
 
 gem 'pg'
 gem 'rspec_junit_formatter'
+gem 'rubocop'
